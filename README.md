@@ -2,8 +2,8 @@
 
 **Dynamic Websites and Applications — Assignment 1**  
 **Project:** Movie Night / Starlight Cinemas  
-**Student:** [YOUR NAME]  
-**Course / Lecturer:** [ADD DETAILS]
+**Student:** Nikoi Cole  
+
 
 ## Project overview
 Starlight Cinemas is a fictional Jamaican cinema website built as a **front-end classroom demonstration**. Visitors can browse movies and showtimes, explore sample cinema locations and prices, register/sign in to demo accounts, reserve sample seats, print digital tickets, and interact with an admin catalog. The black-and-gold interface adapts to different screen sizes.
