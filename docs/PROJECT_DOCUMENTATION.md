@@ -1,6 +1,6 @@
 # Starlight Cinemas — Project Documentation
 
-**Student:** [YOUR NAME]  
+**Student:** Nikoi Cole  
 **Assignment:** Dynamic Websites and Applications — Assignment 1  
 **Date:** 14 October 2026  
 **Project choice:** Movie Night
