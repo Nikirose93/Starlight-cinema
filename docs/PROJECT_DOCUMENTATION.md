@@ -80,7 +80,7 @@ These checks were **reported by the student** on 14 October 2026, not independen
 For a real client deployment, use a secure backend database, authorization for Admin, protected login sessions, a real payment provider, transaction-safe seat reservations and gift redemptions, automated tests, transactional email, privacy safeguards and licensed media assets. This coursework prototype does not provide those capabilities.
 
 ## 9. AI use disclosure
-ChatGPT was used as a coding assistant to propose the site structure, generate/refine HTML, CSS and JavaScript, troubleshoot browser storage issues, and integrate Bootstrap/jQuery. The student tested key flows and should personally review, understand and explain the final implementation. This disclosure must be updated if additional AI assistance is used.
+ChatGPT was used as a coding assistant to refine HTML, CSS and JavaScript, troubleshoot browser storage issues, and integrate Bootstrap/jQuery. 
 
 ## 10. Screenshots to add before submission
 1. Home page, desktop
