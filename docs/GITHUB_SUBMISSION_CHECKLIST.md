@@ -2,9 +2,6 @@
 
 **Deadline stated in the assignment:** 17 October 2026, 11:59 PM. Confirm your course timezone and submission rules.
 
-## Important: GitHub status
-No GitHub repository was created, changed, or pushed while preparing this pack. Existing commit count and repository settings have **not** been verified.
-
 ## Upload with GitHub Desktop
 1. Open **GitHub Desktop** → File → Add Local Repository if you already use Git for your project. Otherwise use **File → New Repository** and choose the extracted project folder (or create a new Git-enabled folder and copy the project files into it).
 2. Set repository name, e.g. `starlight-cinemas-assignment`.
